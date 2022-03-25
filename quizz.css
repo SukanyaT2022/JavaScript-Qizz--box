@@ -1,0 +1,17 @@
+h1{
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: center;/* move text to center*/
+
+}
+
+.big-box{
+    height: 500px;
+    width: 400px;
+    background-color: pink;
+    margin: 40px auto;
+   padding: 30px;
+}
+
+input{
+    align-items: center;
+}
